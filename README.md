@@ -1,6 +1,6 @@
 ### uhrhm Hi
 
-![Mystically's GitHub stats](https://github-readme-stats-mystically11.vercel.app/api?username=Mystically11&show_icons=true&theme=aura)
+![Mystically's GitHub stats](https://github-readme-stats-mystically11.vercel.app/api?username=Mystically11&show_icons=true&theme=aura&include_all_commits=true)
 [![Top Langs](https://github-readme-stats-mystically11.vercel.app/api/top-langs/?username=Mystically11&layout=compact)]
 
 
