@@ -1,10 +1,10 @@
 # hello i code in haxe and c#
 
 <a href="https://github.com/Mystically11/">
-  <img height=200 align="center" src="https://github-readme-stats-mystically11.vercel.app/api?username=Mystically11&show_icons=true&theme=blue_navy&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-mystically11.vercel.app/api?username=Mystically11&show_icons=true&theme=holi&include_all_commits=true" />
 </a>
 <a href="https://github.com/Mystically11">
-  <img height=200 align="center" src="https://github-readme-stats-mystically11.vercel.app/api/top-langs/?username=Mystically11&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-mystically11.vercel.app/api/top-langs/?username=Mystically11&layout=compact&langs_count=8&card_width=300&theme=holi" />
 </a>
 
 
