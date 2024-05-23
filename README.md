@@ -1,5 +1,3 @@
-# hello i code in haxe and c#
-
 <a href="https://github.com/Mystically11/">
   <img height=200 align="center" src="https://github-readme-stats-mystically11.vercel.app/api?username=Mystically11&show_icons=true&theme=holi&include_all_commits=true" />
 </a>
